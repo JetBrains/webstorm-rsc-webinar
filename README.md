@@ -20,4 +20,6 @@ Join us to learn how React enables Server-Side-Rendering capabilities while prov
 
 ## Disclaimer
 
+This repository is no longer maintained and represents just a snapshot of the demo application developed during our webinar.
+
 Essentials of React Server Components webinar is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.
